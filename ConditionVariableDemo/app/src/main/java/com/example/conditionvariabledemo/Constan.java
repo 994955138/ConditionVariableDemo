@@ -2,5 +2,5 @@ package com.example.conditionvariabledemo;
 
 public class Constan {
 
-    public static int mIndex = 0;
+    public static  long mIndex = 0;
 }
